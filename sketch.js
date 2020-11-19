@@ -25,7 +25,7 @@ function draw() {
   bullet.velocityX=speed;
  
   //customize
-  hascollided();
+  //hascollided();
 
   if(hascollided(bullet,wall))
   {
